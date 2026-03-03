@@ -1,0 +1,1 @@
+A simple and responsive calculator web application built as part of the CodeAlpha Internship program. This project performs basic arithmetic operations including addition, subtraction, multiplication, and division with a clean and user-friendly interface.
